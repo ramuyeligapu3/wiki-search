@@ -1,3 +1,0 @@
-#MARKDOWN
-
-**Entry**
